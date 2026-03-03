@@ -1,0 +1,69 @@
+## Style Guide for Hypothetical Outcome Posts
+
+This style guide writes hypothetical scenarios drawn from real-world data or events (e.g., official statements, hearings, briefings, or systemic reports), often critiquing institutional failures in government, bureaucracy, or corporate settings. The guide captures the consistent elements of voice, structure, and technique used across the sampled content.
+
+#### 1. Perspective and Voice
+   - **First-Person Insider Narration**: Always write from the viewpoint of a mid- or low-level insider (e.g., "I am an intern in the Office of Legislative Affairs" or "I am the Commissioner of Minnesota's Department of Human Services"). This role should be specific, credible, and tied to the scenario's context, emphasizing mundane responsibilities to build authenticity and irony.
+   - **Tone**: Dry, ironic, and understated. Use matter-of-fact language to highlight absurdities, contradictions, and hypocrisies without overt emotion. Employ subtle sarcasm through repetition, precise details, and deadpan observations (e.g., noting a "morale-boosting email" amid massive failure).
+   - **Assumed Knowledge**: The narrator is knowledgeable but powerless, often reflecting on systemic issues with resignation or quiet critique. Avoid moralizing; let facts imply the judgment.
+
+#### 2. Content and Themes
+   - **Hypothetical Based on Real Data**: Ground the narrative in verifiable elements like quotes from officials, specific numbers (e.g., budgets, employee counts, timelines), document names (e.g., "SF-52 form" or "three-ring binder"), or procedural details. Use these to construct a "what if" outcome that exposes flaws like inefficiency, lack of accountability, or contradictory statements.
+   - **Core Themes**: Bureaucratic inertia, unpunished failures, ignored warnings, and the gap between official rhetoric and reality. Focus on how systems prioritize process over results (e.g., renaming units without change, or briefings that bypass oversight).
+   - **Key Elements to Include**:
+     - Specific metrics for emphasis (e.g., "Nine billion dollars" repeated for impact).
+     - Direct quotes or paraphrases from real sources, often juxtaposed to reveal inconsistencies (e.g., "No." followed immediately by "Obviously, yes.").
+     - Mundane artifacts as symbols (e.g., a ruler for tabs, a laminated mission statement facing a window).
+     - Zero consequences for major errors, underscoring impunity.
+
+#### 3. Structure
+   - **Opening**: Start with the narrator's role and routine duties. Build credibility with personal details (e.g., years of service, office decor).
+   - **Body**: 
+     - Describe the system or process in detail.
+     - Introduce the hypothetical incident or failure, weaving in real data.
+     - Build tension through chronological events, contradictions, and ironic asides.
+     - Include interactions (e.g., hearings, emails) with precise, verbatim-like dialogue.
+   - **Closing**: End with a short, punchy reflection or ironic twist that ties back to the opening (e.g., "I still have my job" or "It was a description, not an argument").
+   - **Length**: 800–1500 words for main posts. Use short paragraphs for readability; mix sentence lengths for rhythm (short for emphasis, longer for buildup).
+   - **Replies**: If applicable, keep them concise (1–3 sentences), witty, and referential to the main post's details (e.g., defending facts with sources or extending irony).
+
+#### 4. Language and Style
+   - **Precision and Repetition**: Use exact numbers, dates, and terms repeatedly for emphasis. Avoid vagueness; everything is quantifiable (e.g., "Eleven employees reviewing 4.1 million claims").
+   - **Syntax**: Simple, declarative sentences dominate. Occasional fragments for impact (e.g., "Nine billion dollars. Zero consequences.").
+   - **Humor**: Subtle and dark—irony from understatement (e.g., "I consider this a 54% success rate" after massive fraud).
+   - **Avoidances**: No exclamations, slang, or direct calls to action. Let the narrative imply critique.
+
+This guide ensures posts feel authentic, engaging, and critical without being preachy.
+
+### Instructions for Using and Prompting the Guide
+
+To use this style guide effectively, treat it as a template for generating content. It's ideal for creating satirical or analytical pieces on institutional topics, drawing from real data sources like earnings calls, product announcements, or official notices.
+
+#### How to Use the Guide:
+- **Select a Topic**: Choose a real-world event or data point (e.g., a company's earnings call revealing a revenue shortfall, or a government report on inefficiency). Hypothesize an outcome that amplifies flaws (e.g., "What if the shortfall led to unaddressed fraud?").
+- **Assign a Role**: Pick an insider perspective relevant to the topic (e.g., a junior accountant for a financial scandal).
+- **Incorporate Real Data**: Pull in verifiable elements (quotes, figures) to ground the hypothetical.
+- **Write Iteratively**: Draft following the structure, then revise for tone—ensure irony emerges naturally.
+- **Applications**: Use for social media posts, blog entries, or creative writing exercises. For replies, reference the main narrative's specifics.
+
+#### How to Prompt an AI (e.g., Me or Another Model) Using the Guide:
+- Provide the full style guide in your prompt for reference.
+- Specify the topic, data, and role.
+- Instruct the AI to generate a post adhering strictly to the guide.
+- Example Prompt Structure:
+  ```
+  Using the following style guide for hypothetical outcome posts: [Paste the entire style guide here].
+
+  Generate a hypothetical post in this exact style. Base it on this real data: [Insert data, e.g., "From Apple's Q1 2026 earnings call: They reported a 15% drop in iPhone sales due to supply chain issues, with CEO Tim Cook stating 'We're investing in resilience' while announcing $5B in stock buybacks."].
+
+  Write from the perspective of [role, e.g., "a supply chain analyst at Apple"].
+
+  Focus on a hypothetical outcome where [brief scenario, e.g., "the supply chain issues lead to unaddressed vulnerabilities and zero accountability"].
+
+  Ensure the post is 800-1200 words, ends ironically, and uses specific numbers/quotes for emphasis.
+  ```
+- Tips for Prompting:
+  - Be specific about data to avoid fabrication—cite sources if possible.
+  - If testing variations, prompt for replies separately (e.g., "Now generate a witty reply to a critic of this post").
+  - Iterate: If the output deviates, reprompt with feedback like "Make the tone more understated and ironic."
+  - Ethical Note: Since these are hypotheticals, label them as such if sharing publicly to avoid misinformation.
