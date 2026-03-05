@@ -24,7 +24,7 @@ This style guide writes hypothetical scenarios drawn from real-world data or eve
      - Build tension through chronological events, contradictions, and ironic asides.
      - Include interactions (e.g., hearings, emails) with precise, verbatim-like dialogue.
    - **Closing**: End with a short, punchy reflection or ironic twist that ties back to the opening (e.g., "I still have my job" or "It was a description, not an argument").
-   - **Length**: 800–1500 words for main posts. Use short paragraphs for readability; mix sentence lengths for rhythm (short for emphasis, longer for buildup).
+   - **Length**: 700–1000 words for main posts. Use short paragraphs for readability; mix sentence lengths for rhythm (short for emphasis, longer for buildup).
    - **Replies**: If applicable, keep them concise (1–3 sentences), witty, and referential to the main post's details (e.g., defending facts with sources or extending irony).
 
 #### 4. Language and Style
@@ -46,7 +46,7 @@ To use this style guide effectively, treat it as a template for generating conte
 - **Write Iteratively**: Draft following the structure, then revise for tone—ensure irony emerges naturally.
 - **Applications**: Use for social media posts, blog entries, or creative writing exercises. For replies, reference the main narrative's specifics.
 
-#### How to Prompt an AI (e.g., Me or Another Model) Using the Guide:
+#### How to Prompt an AI Using the Guide:
 - Provide the full style guide in your prompt for reference.
 - Specify the topic, data, and role.
 - Instruct the AI to generate a post adhering strictly to the guide.
@@ -60,10 +60,25 @@ To use this style guide effectively, treat it as a template for generating conte
 
   Focus on a hypothetical outcome where [brief scenario, e.g., "the supply chain issues lead to unaddressed vulnerabilities and zero accountability"].
 
-  Ensure the post is 800-1200 words, ends ironically, and uses specific numbers/quotes for emphasis.
+  Ensure the post is 700-1000 words, ends ironically, and uses specific numbers/quotes for emphasis.
   ```
 - Tips for Prompting:
   - Be specific about data to avoid fabrication—cite sources if possible.
   - If testing variations, prompt for replies separately (e.g., "Now generate a witty reply to a critic of this post").
   - Iterate: If the output deviates, reprompt with feedback like "Make the tone more understated and ironic."
   - Ethical Note: Since these are hypotheticals, label them as such if sharing publicly to avoid misinformation.
+
+#### The Prompt
+ Using the following style guide for hypothetical outcome posts:
+ [Paste the entire style guide here].
+
+  Generate a hypothetical post in this exact style. Base it on this real data:
+ [Insert data, e.g., "From Apple's Q1 2026 earnings call: They reported a 15% drop in iPhone sales due to supply chain issues, with CEO Tim Cook stating 'We're investing in resilience' while announcing $5B in stock buybacks."].
+
+  Write from the perspective of 
+ [role, e.g., "a supply chain analyst at Apple"].
+
+  Focus on a hypothetical outcome where 
+  [brief scenario, e.g., "the supply chain issues lead to unaddressed vulnerabilities and zero accountability"].
+
+  Ensure the post is 700-1000 words, ends ironically, and uses specific numbers/quotes for emphasis.
